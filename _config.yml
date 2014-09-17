@@ -1,0 +1,9 @@
+# Site settings
+title: Dies. Das. Einfach verschiedene Dinge.
+description: Dies und das.
+email: ch38@gmx.net
+github_username: ch38
+
+# Build settings
+markdown: kramdown
+highlighter: pygments # rouge führt zu "Page build failed"
